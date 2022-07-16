@@ -3,8 +3,11 @@
     
 }
 div{ 
-    background-color: aqua ;
+    background-color: rgb(40, 54, 70);
     text-align: center ;
+}
+p,h1{
+    color: white ;
 }
 /*estilo de la foto de perfil */
 

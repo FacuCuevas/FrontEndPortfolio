@@ -1,5 +1,5 @@
 .row{
-    background-color: aqua;
+    background-color: rgb(40, 54, 70);
 }
 footer{
     color:#000000;
@@ -11,4 +11,7 @@ footer{
 }
 div{
     background-color: aqua ;
+}
+p{
+    color:white;
 }
