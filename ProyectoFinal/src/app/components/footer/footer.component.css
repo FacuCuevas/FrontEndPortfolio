@@ -1,0 +1,14 @@
+.row{
+    background-color: aqua;
+}
+footer{
+    color:#000000;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 3px -3px 5px;
+}
+div{
+    background-color: aqua ;
+}
